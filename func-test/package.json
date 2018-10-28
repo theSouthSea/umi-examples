@@ -4,6 +4,8 @@
     "umi-plugin-dll": "*"
   },
   "devDependencies": {
-    "babel-plugin-module-resolver": "^3.1.0"
+    "babel-plugin-module-resolver": "^3.1.0",
+    "prop-types": "^15.6.1",
+    "react-intl": "^2.4.0"
   }
 }

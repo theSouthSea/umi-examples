@@ -1,3 +1,2 @@
-
 export default () =>
-  <h1>/exclude</h1>
+<h1>/exclude123</h1>
